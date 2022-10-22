@@ -9,7 +9,7 @@ In the result, he original pdf is broken down into pure text and images, and the
  
 | #    | Answer | Choice A | Choice B | Choice C | Choice D(if any) | picture links(if any)          |
 | ---- | ------ | -------- | -------- | -------- | -------- | ------------------------------ |
-| 1    | (B)    | ...      | ...      | ...      | ...       | <img src = "../pics/xxx.jpeg"> |
+| 1    | (B)    | ...      | ...      | ...      | ...       | \<img src = "../pics/xxx.jpeg"> |
 
 
 
