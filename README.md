@@ -6,8 +6,13 @@ I've past the test, but I was intent to uneditable PDF into pure text, so we can
 
 In the result, he original pdf is broken down into pure text and images, and the structure of pure text is like:
 &nbsp;
-\#         Answer       Choice A       Choice B       Choice C       Choice D(if any)       icture links(if any)
-1           B             ...           ...            ...              ...                 <img src = "../pics/xxx.jpeg">
+
+| #    | Answer | Choice A | Choice A | Choice A | Choice A | picture links(if any)          |
+| ---- | ------ | -------- | -------- | -------- | -------- | ------------------------------ |
+| 1    | (B)    | ...      | ...      | ...      | ..       | <img src = "../pics/xxx.jpeg"> |
+
+
+
 &nbsp;
 &nbsp;
 
