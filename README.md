@@ -16,4 +16,6 @@ In the result, he original pdf is broken down into pure text and images, and the
 &nbsp;
 &nbsp;
 
+
+pics is a file to be extracted!
 ENJOY！
